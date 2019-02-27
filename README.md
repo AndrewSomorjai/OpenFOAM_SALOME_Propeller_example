@@ -22,7 +22,7 @@ on Xubuntu 18.04 LTS with OpenFOAM v18.06.
 The following steps use the mesh already contained in this
 repo and starts with exporting the unv files.
 
-Open "rotor and stator.hdf" (found in CAD folder) in Salome.
+Open "rotor and stator.hdf" (found in "rotor and stator.hdf.7z") in Salome.
 Export stator mesh as stator.unv into prop/stator
 Export rotor mesh as rotor.unv into prop/rotor
 
